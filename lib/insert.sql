@@ -1,16 +1,16 @@
 INSERT INTO bears (name, age, breed)
-  VALUES ("Mr.Chocolate", 60, Black Bear)
+  VALUES ("Mr.Chocolate", 60, "Black Bear");
 INSERT INTO bears (name, age, breed)
-  VALUES ("Rowdy", 24, "Space Bear")
+  VALUES ("Rowdy", 24, "Space Bear");
 INSERT INTO bears (name, age, breed)
-  VALUES ("Tabitha", 14, "Care Bear")
+  VALUES ("Tabitha", 14, "Care Bear");
 INSERT INTO bears (name, age, breed)
-  VALUES ("Sergeant Brown", 16, "Army Bear")
+  VALUES ("Sergeant Brown", 16, "Army Bear");
 INSERT INTO bears (name, age, breed)
-  VALUES ("Melissa", 42, "Momma Bear")
+  VALUES ("Melissa", 42, "Momma Bear");
 INSERT INTO bears (name, age, breed)
-  VALUES ("Grinch", 60, "Mean Bear")
+  VALUES ("Grinch", 60, "Mean Bear");
 INSERT INTO bears (name, age, breed)
-  VALUES ("Wendy", 100, "Bear")
+  VALUES ("Wendy", 100, "Bear");
 INSERT INTO bears (name, age, breed)
-  VALUES ("NULL", 40, "Killed Tim")
+  VALUES ("NULL", 40, "Killed Tim");
