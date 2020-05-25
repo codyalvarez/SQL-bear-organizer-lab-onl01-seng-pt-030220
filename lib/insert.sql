@@ -1,0 +1,8 @@
+INSERT INFO bears (name, age, breed) VALUES ("Mr.Chocolate", 60, "Black Bear")
+INSERT INFO bears (name, age, breed) VALUES ("")
+INSERT INFO bears (name, age, breed) VALUES ("")
+INSERT INFO bears (name, age, breed) VALUES ("")
+INSERT INFO bears (name, age, breed) VALUES ("")
+INSERT INFO bears (name, age, breed) VALUES ("")
+INSERT INFO bears (name, age, breed) VALUES ("")
+INSERT INFO bears (name, age, breed) VALUES ("")
