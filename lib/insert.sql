@@ -1,4 +1,4 @@
-INSERT INFO bears (name, age, breed) VALUES ("Mr.Chocolate", 60, "Black Bear")
+"INSERT INFO bears (name, age, breed) VALUES ("Mr.Chocolate", 60, "Black Bear")"
 INSERT INFO bears (name, age, breed) VALUES ("Rowdy", 24, "Space Bear")
 INSERT INFO bears (name, age, breed) VALUES ("Tabitha", 14, "Care Bear")
 INSERT INFO bears (name, age, breed) VALUES ("Sergeant Brown", 16, "Army Bear")
