@@ -13,4 +13,4 @@ INSERT INTO bears (name, age)
 INSERT INTO bears (name, age)
   VALUES ("Wendy", 100);
 INSERT INTO bears (name, age)
-  VALUES ("NULL", 40);
+  VALUES (NULL, NULL);
