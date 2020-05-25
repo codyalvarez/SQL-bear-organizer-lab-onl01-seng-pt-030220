@@ -1,5 +1,5 @@
 INSERT INTO bears (name, age, breed)
-  VALUES ("Mr.Chocolate", 60, "Black Bear")
+  VALUES ("Mr.Chocolate", 60, Black Bear)
 INSERT INTO bears (name, age, breed)
   VALUES ("Rowdy", 24, "Space Bear")
 INSERT INTO bears (name, age, breed)
